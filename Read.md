@@ -6,6 +6,6 @@ check it out:
 
 reponame: newrepohackathon
 
-or just click here:
+or just click here,
 
 https://github.com/shahzaibansari123/newrepohackathon
